@@ -9,4 +9,4 @@ The dataset (`athlete_events.csv`) contains information about Olympic athletes, 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/abhishekdhakal1/olympics-data-dnalysis-pandas.git](https://github.com/abhishekdhakal1/olympics-data-analysis-pandas)
+   git clone https://github.com/abhishekdhakal1/olympics-data-dnalysis-pandas.git
